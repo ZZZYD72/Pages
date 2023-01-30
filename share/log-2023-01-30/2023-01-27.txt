@@ -1,0 +1,5 @@
+Gitlab 访问速度明显比 Github 好
+跟了跟了(
+
+决定先在Github, cnblog, gitee, vscode上准备好
+再去 Gitlab hexo SpaceVim
